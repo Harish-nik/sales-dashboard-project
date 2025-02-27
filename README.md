@@ -1,2 +1,4 @@
-# sales-dashboard-project
-I developed a sales dashboard project for Ferns and Petals, an online gifting company, created using Microsoft Excel. This process involved several process such as data processing,data cleaning,power query and pivot tables This dashboard helps in understanding sales patterns, peak order times, and high-revenue products, aiding decision-making .
+# sales-dashboard-project (sales dashboard created using MS EXCEL)
+# project objective
+you have given a dataset from FNP(Ferns and petals)that specialize in sending gifts on various occasion. Task is analyze the dataset to uncover key insights related to sale trends,customer behaviour and productperformance and create a dashboard
+
